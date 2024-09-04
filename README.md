@@ -106,3 +106,5 @@ counting of visitors to this page in this section started from Sep 4, 2024
 [![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,Platane/snk,BEPb/BEPb,ikunshare/Onekey,JinhsiStudio/JinhsiStudio,open-ani/ani,670848654/SakuraAnime,superDMS/HsFreezer-Hidden-in-the-snow-,hydralauncher/hydra,JDDKCN/KCN-StarRailServer,Hex-Dragon/PCL2&type=Date)](https://star-history.com/#star-history/star-history&Platane/snk&BEPb/BEPb&ikunshare/Onekey&JinhsiStudio/JinhsiStudio&open-ani/ani&670848654/SakuraAnime&superDMS/HsFreezer-Hidden-in-the-snow-&hydralauncher/hydra&JDDKCN/KCN-StarRailServer&Hex-Dragon/PCL2&Date)
 
 ![Metrics](github-metrics.svg)
+
+![](./profile-3d-contrib/profile-night-view.svg)

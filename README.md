@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&desc=I%20am%20CarolBicsi&textBg=false&descAlign=50&fontAlign=50&reversal=true&fontAlignY=39" />
 </p>
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <div align = "center">
+
 <img  src="https://count.getloli.com/get/@carolbicsi?theme=gelbooru" alt="carolbicsi" /> <div/>
 
 <h1 align="center">
@@ -43,30 +47,29 @@
 </p>
 
 
-![GitHub 监控](https://stats.justsong.cn/api/github?username=carolbicsi)
-![B 站 监控](https://stats.justsong.cn/api/bilibili/?id=3546593229801716)
-![掘金 监控](https://stats.justsong.cn/api/juejin?id=1115346903501097)
-![CSDN 监控](https://stats.justsong.cn/api/csdn?id=Y799353918)
-![YouTube 监控](https://stats.justsong.cn/api/website/?url=https://www.youtube.com/&style=flat&logo=youtube)
-![Vimeo 监控](https://stats.justsong.cn/api/website/?url=https://vimeo.com/&style=flat&logo=vimeo)
-![Twitch 监控](https://stats.justsong.cn/api/website/?url=https://www.twitch.tv/&style=flat&logo=twitch)
-![Stack Overflow 监控](https://stats.justsong.cn/api/website/?url=https://stackoverflow.com/&style=flat&logo=stackoverflow)
-![Reddit 监控](https://stats.justsong.cn/api/website/?url=https://www.reddit.com/&style=flat&logo=reddit)
-![Medium 监控](https://stats.justsong.cn/api/website/?url=https://medium.com/&style=flat&logo=medium)
-![Hacker News 监控](https://stats.justsong.cn/api/website/?url=https://news.ycombinator.com/&style=flat&logo=ycombinator)
-![GitHub 监控](https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github)
-![GitLab 监控](https://stats.justsong.cn/api/website/?url=https://gitlab.com/&style=flat&logo=gitlab)
-![Bitbucket 监控](https://stats.justsong.cn/api/website/?url=https://bitbucket.org/&style=flat&logo=bitbucket)
-![优酷 监控](https://stats.justsong.cn/api/website/?url=https://www.youku.com/&style=flat&logo=youku)
-![爱奇艺 监控](https://stats.justsong.cn/api/website/?url=https://www.iqiyi.com/&style=flat&logo=iqiyi)
-![腾讯视频 监控](https://stats.justsong.cn/api/website/?url=https://v.qq.com/&style=flat&logo=tencent-video)
-![哔哩哔哩 监控](https://stats.justsong.cn/api/website/?url=https://www.bilibili.com/&style=flat&logo=bilibili)
-![掘金 监控](https://stats.justsong.cn/api/website/?url=https://juejin.im/&style=flat&logo=juejin)
-![知乎 监控](https://stats.justsong.cn/api/website/?url=https://www.zhihu.com/&style=flat&logo=zhihu)
-![CSDN 监控](https://stats.justsong.cn/api/website/?url=https://www.csdn.net/&style=flat&logo=csdn)
-![简书 监控](https://stats.justsong.cn/api/website/?url=https://www.jianshu.com/&style=flat&logo=jianshu)
-![开源中国 监控](https://stats.justsong.cn/api/website/?url=https://www.oschina.net/&style=flat&logo=oschina)
-![码云 监控](https://stats.justsong.cn/api/website/?url=https://gitee.com/&style=flat&logo=gitee)
-[![CarolBicsi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarolBicsi)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=CarolBicsi&theme=tokyonight&hide_border=%E7%9C%9F&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=carolbicsi&theme=nord&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+### 社交媒体和平台监控
+
+| 平台           | 监控链接                                                                 | 平台           | 监控链接                                                                 |
+| -------------- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------ |
+| GitHub         | ![GitHub 监控](https://stats.justsong.cn/api/github?username=carolbicsi) | B 站           | ![B 站 监控](https://stats.justsong.cn/api/bilibili/?id=3546593229801716) |
+| 掘金           | ![掘金 监控](https://stats.justsong.cn/api/juejin?id=1115346903501097)   | CSDN           | ![CSDN 监控](https://stats.justsong.cn/api/csdn?id=Y799353918)            |
+| YouTube        | ![YouTube 监控](https://stats.justsong.cn/api/website/?url=https://www.youtube.com/&style=flat&logo=youtube) | Vimeo          | ![Vimeo 监控](https://stats.justsong.cn/api/website/?url=https://vimeo.com/&style=flat&logo=vimeo) |
+| Twitch         | ![Twitch 监控](https://stats.justsong.cn/api/website/?url=https://www.twitch.tv/&style=flat&logo=twitch) | Stack Overflow | ![Stack Overflow 监控](https://stats.justsong.cn/api/website/?url=https://stackoverflow.com/&style=flat&logo=stackoverflow) |
+| Reddit         | ![Reddit 监控](https://stats.justsong.cn/api/website/?url=https://www.reddit.com/&style=flat&logo=reddit) | Medium         | ![Medium 监控](https://stats.justsong.cn/api/website/?url=https://medium.com/&style=flat&logo=medium) |
+| Hacker News    | ![Hacker News 监控](https://stats.justsong.cn/api/website/?url=https://news.ycombinator.com/&style=flat&logo=ycombinator) | GitHub         | ![GitHub 监控](https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github) |
+| GitLab         | ![GitLab 监控](https://stats.justsong.cn/api/website/?url=https://gitlab.com/&style=flat&logo=gitlab) | Bitbucket      | ![Bitbucket 监控](https://stats.justsong.cn/api/website/?url=https://bitbucket.org/&style=flat&logo=bitbucket) |
+| 优酷           | ![优酷 监控](https://stats.justsong.cn/api/website/?url=https://www.youku.com/&style=flat&logo=youku) | 爱奇艺         | ![爱奇艺 监控](https://stats.justsong.cn/api/website/?url=https://www.iqiyi.com/&style=flat&logo=iqiyi) |
+| 腾讯视频       | ![腾讯视频 监控](https://stats.justsong.cn/api/website/?url=https://v.qq.com/&style=flat&logo=tencent-video) | 哔哩哔哩       | ![哔哩哔哩 监控](https://stats.justsong.cn/api/website/?url=https://www.bilibili.com/&style=flat&logo=bilibili) |
+| 掘金           | ![掘金 监控](https://stats.justsong.cn/api/website/?url=https://juejin.im/&style=flat&logo=juejin) | 知乎           | ![知乎 监控](https://stats.justsong.cn/api/website/?url=https://www.zhihu.com/&style=flat&logo=zhihu) |
+| CSDN           | ![CSDN 监控](https://stats.justsong.cn/api/website/?url=https://www.csdn.net/&style=flat&logo=csdn) | 简书           | ![简书 监控](https://stats.justsong.cn/api/website/?url=https://www.jianshu.com/&style=flat&logo=jianshu) |
+| 开源中国       | ![开源中国 监控](https://stats.justsong.cn/api/website/?url=https://www.oschina.net/&style=flat&logo=oschina) | 码云           | ![码云 监控](https://stats.justsong.cn/api/website/?url=https://gitee.com/&style=flat&logo=gitee) |
+
+
+### 统计数据
+
+| 统计类型       | 数据链接                                                                 |
+| -------------- | ------------------------------------------------------------------------ |
+| WakaTime 统计  | [![CarolBicsi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarolBicsi)](https://github.com/anuraghazra/github-readme-stats) |
+| GitHub 连续提交 | [![GitHub Streak](https://streak-stats.demolab.com?user=CarolBicsi&theme=tokyonight&hide_border=真&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
+| GitHub 奖杯    | [![trophy](https://github-profile-trophy.vercel.app/?username=carolbicsi&theme=nord&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) |
+

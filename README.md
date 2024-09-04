@@ -25,7 +25,31 @@
 <img src="https://komarev.com/ghpvc/?username=CarolBicsi&abbreviated=true&color=yellow" />
 <img src="https://wakatime.com/badge/user/4a02bb6e-69d4-4f8c-8c0b-ea3c1853203e.svg" />
 </p>
+![GitHub 监控](https://stats.justsong.cn/api/github?username=carolbicsi)
+![B 站 监控](https://stats.justsong.cn/api/bilibili/?id=3546593229801716)
+![掘金 监控](https://stats.justsong.cn/api/juejin?id=1115346903501097)
+![CSDN 监控](https://stats.justsong.cn/api/csdn?id=Y799353918)
 
+![YouTube 监控](https://stats.justsong.cn/api/website/?url=https://www.youtube.com/&style=flat&logo=youtube)
+![Vimeo 监控](https://stats.justsong.cn/api/website/?url=https://vimeo.com/&style=flat&logo=vimeo)
+![Twitch 监控](https://stats.justsong.cn/api/website/?url=https://www.twitch.tv/&style=flat&logo=twitch)
+![Stack Overflow 监控](https://stats.justsong.cn/api/website/?url=https://stackoverflow.com/&style=flat&logo=stackoverflow)
+![Reddit 监控](https://stats.justsong.cn/api/website/?url=https://www.reddit.com/&style=flat&logo=reddit)
+![Medium 监控](https://stats.justsong.cn/api/website/?url=https://medium.com/&style=flat&logo=medium)
+![Hacker News 监控](https://stats.justsong.cn/api/website/?url=https://news.ycombinator.com/&style=flat&logo=ycombinator)
+![GitHub 监控](https://stats.justsong.cn/api/website/?url=https://github.com/&style=flat&logo=github)
+![GitLab 监控](https://stats.justsong.cn/api/website/?url=https://gitlab.com/&style=flat&logo=gitlab)
+![Bitbucket 监控](https://stats.justsong.cn/api/website/?url=https://bitbucket.org/&style=flat&logo=bitbucket)
+![优酷 监控](https://stats.justsong.cn/api/website/?url=https://www.youku.com/&style=flat&logo=youku)
+![爱奇艺 监控](https://stats.justsong.cn/api/website/?url=https://www.iqiyi.com/&style=flat&logo=iqiyi)
+![腾讯视频 监控](https://stats.justsong.cn/api/website/?url=https://v.qq.com/&style=flat&logo=tencent-video)
+![哔哩哔哩 监控](https://stats.justsong.cn/api/website/?url=https://www.bilibili.com/&style=flat&logo=bilibili)
+![掘金 监控](https://stats.justsong.cn/api/website/?url=https://juejin.im/&style=flat&logo=juejin)
+![知乎 监控](https://stats.justsong.cn/api/website/?url=https://www.zhihu.com/&style=flat&logo=zhihu)
+![CSDN 监控](https://stats.justsong.cn/api/website/?url=https://www.csdn.net/&style=flat&logo=csdn)
+![简书 监控](https://stats.justsong.cn/api/website/?url=https://www.jianshu.com/&style=flat&logo=jianshu)
+![开源中国 监控](https://stats.justsong.cn/api/website/?url=https://www.oschina.net/&style=flat&logo=oschina)
+![码云 监控](https://stats.justsong.cn/api/website/?url=https://gitee.com/&style=flat&logo=gitee)
 [![CarolBicsi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarolBicsi)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=CarolBicsi&theme=tokyonight&hide_border=%E7%9C%9F&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=さようなら&fontSize=90&fontAlign=50&fontAlignY=70&desc=ガーナ&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />

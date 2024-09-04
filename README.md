@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&desc=I%20am%20CarolBicsi&textBg=false&descAlign=50&fontAlign=50&reversal=true&fontAlignY=39" />
 </p>
 <!--   my-header-img -->
-![](./src/header_.png)
+![](./header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <div align = "center">
 

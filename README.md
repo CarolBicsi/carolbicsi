@@ -29,3 +29,8 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=CarolBicsi&theme=tokyonight&hide_border=%E7%9C%9F&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=さようなら&fontSize=90&fontAlign=50&fontAlignY=70&desc=ガーナ&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=carolbicsi&theme=nord&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)

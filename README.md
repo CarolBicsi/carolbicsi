@@ -99,6 +99,7 @@
 counting of visitors to this page in this section started from Sep 4, 2024
 <a href="https://info.flagcounter.com/WLAk"><img src="https://s11.flagcounter.com/map/WLAk/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
+
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CarolBicsi/CarolBicsi&type=Date)](https://star-history.com/#CarolBicsi/CarolBicsi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,Platane/snk,BEPb/BEPb,ikunshare/Onekey,JinhsiStudio/JinhsiStudio,open-ani/ani,670848654/SakuraAnime,superDMS/HsFreezer-Hidden-in-the-snow-,hydralauncher/hydra,JDDKCN/KCN-StarRailServer,Hex-Dragon/PCL2&type=Date)](https://star-history.com/#star-history/star-history&Platane/snk&BEPb/BEPb&ikunshare/Onekey&JinhsiStudio/JinhsiStudio&open-ani/ani&670848654/SakuraAnime&superDMS/HsFreezer-Hidden-in-the-snow-&hydralauncher/hydra&JDDKCN/KCN-StarRailServer&Hex-Dragon/PCL2&Date)

@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/QQ-799353918-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=CarolBicsi&abbreviated=true&color=yellow" />
+  [![wakatime](https://wakatime.com/badge/user/4a02bb6e-69d4-4f8c-8c0b-ea3c1853203e.svg)](https://wakatime.com/@4a02bb6e-69d4-4f8c-8c0b-ea3c1853203e)
 </p>
 
 [![CarolBicsi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarolBicsi)](https://github.com/anuraghazra/github-readme-stats)

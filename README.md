@@ -25,11 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=CarolBicsi&abbreviated=true&color=yellow" />
 <img src="https://wakatime.com/badge/user/4a02bb6e-69d4-4f8c-8c0b-ea3c1853203e.svg" />
 </p>
-![GitHub 监控](https://stats.justsong.cn/api/github?username=carolbicsi)
-![B 站 监控](https://stats.justsong.cn/api/bilibili/?id=3546593229801716)
-![掘金 监控](https://stats.justsong.cn/api/juejin?id=1115346903501097)
-![CSDN 监控](https://stats.justsong.cn/api/csdn?id=Y799353918)
-
 ![YouTube 监控](https://stats.justsong.cn/api/website/?url=https://www.youtube.com/&style=flat&logo=youtube)
 ![Vimeo 监控](https://stats.justsong.cn/api/website/?url=https://vimeo.com/&style=flat&logo=vimeo)
 ![Twitch 监控](https://stats.justsong.cn/api/website/?url=https://www.twitch.tv/&style=flat&logo=twitch)
@@ -56,6 +51,9 @@
 </p>
 
 
-
+![GitHub 监控](https://stats.justsong.cn/api/github?username=carolbicsi)
+![B 站 监控](https://stats.justsong.cn/api/bilibili/?id=3546593229801716)
+![掘金 监控](https://stats.justsong.cn/api/juejin?id=1115346903501097)
+![CSDN 监控](https://stats.justsong.cn/api/csdn?id=Y799353918)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carolbicsi&theme=nord&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)

@@ -11,7 +11,7 @@ on:
   # 在主分支上每次推送时运行
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate-animation:
@@ -48,18 +48,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          #  - public_repo
-          #  - read:project
-          #  - read:user
-          #  - read:org
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options

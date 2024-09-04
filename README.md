@@ -21,6 +21,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolBicsi/CarolBicsiy/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![License](https://img.shields.io/github/license/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/blob/master/LICENSE) [![Release](https://img.shields.io/github/release/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/releases) [![Commits Since](https://img.shields.io/github/commits-since/CarolBicsi/carolbicsi/{version}.svg)](https://github.com/CarolBicsi/carolbicsi/commits/master) [![Downloads](https://img.shields.io/github/downloads/CarolBicsi/carolbicsi/total.svg)](https://github.com/CarolBicsi/carolbicsi/releases) [![Forks](https://img.shields.io/github/forks/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/network) [![Stars](https://img.shields.io/github/stars/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/stargazers) [![Watchers](https://img.shields.io/github/watchers/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/watchers) [![Followers](https://img.shields.io/github/followers/CarolBicsi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CarolBicsi) [![Issues](https://img.shields.io/github/issues/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/issues) [![Issues Closed](https://img.shields.io/github/issues-closed/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/issues?q=is%3Aissue+is%3Aclosed) [![Pull Requests](https://img.shields.io/github/issues-pr/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/pulls) [![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/CarolBicsi/carolbicsi.svg)](https://github.com/CarolBicsi/carolbicsi/pulls?q=is%3Apr+is%3Aclosed)
+
 <details>
  <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 <!--   my-skils -->
@@ -61,7 +63,7 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![CarolBicsi's github stats](https://github-readme-stats.vercel.app/api?username=CarolBicsi&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBicsi&theme=radical&layout=compact) |
+| <img   align="center" src="https://github-readme-stats.vercel.app/api?username=CarolBicsi&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default&custom_title=CarolBicsi"/> | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBicsi&theme=radical&layout=compact) |
 
 <!-- dark snake -->
 ![CarolBicsi's github activity graph](https://raw.githubusercontent.com/CarolBicsi/CarolBicsi/output/github-contribution-grid-snake-dark.svg)

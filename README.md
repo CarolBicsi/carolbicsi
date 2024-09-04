@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&desc=I%20am%20CarolBicsi&textBg=false&descAlign=50&fontAlign=50&reversal=true&fontAlignY=39" />
 </p>
 
+
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <div align = "center">
 
@@ -104,6 +105,4 @@ counting of visitors to this page in this section started from Sep 4, 2024
 
 [![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history,Platane/snk,BEPb/BEPb,ikunshare/Onekey,JinhsiStudio/JinhsiStudio,open-ani/ani,670848654/SakuraAnime,superDMS/HsFreezer-Hidden-in-the-snow-,hydralauncher/hydra,JDDKCN/KCN-StarRailServer,Hex-Dragon/PCL2&type=Date)](https://star-history.com/#star-history/star-history&Platane/snk&BEPb/BEPb&ikunshare/Onekey&JinhsiStudio/JinhsiStudio&open-ani/ani&670848654/SakuraAnime&superDMS/HsFreezer-Hidden-in-the-snow-&hydralauncher/hydra&JDDKCN/KCN-StarRailServer&Hex-Dragon/PCL2&Date)
 
-
 ![Metrics](github-metrics.svg)
-

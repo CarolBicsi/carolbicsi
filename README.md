@@ -1,14 +1,20 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There&desc=I%20am%20CarolBicsi&textBg=false&descAlign=50&fontAlign=50&reversal=true&fontAlignY=39" />
 </p>
-
+<img src="https://count.getloli.com/get/@carolbicsi?theme=gelbooru" alt="carolbicsi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+CarolBicsi;" />
+</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
+<details>
+ <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>
 
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,activitypub,actix,adonis,ae,aiscript,alpinejs,anaconda,androidstudio,angular,ansible,apollo,apple,appwrite,arch,arduino,astro,atom,au,autocad,aws,azul,azure,babel,bash,bevy,bitbucket,blender,bootstrap,bsd,bun,c,cs,cpp,crystal,cassandra,clion,clojure,cloudflare,cmake,codepen,coffeescript,css,cypress,d3,dart,debian,deno,devto,discord,bots,discordjs,django,docker,dotnet,dynamodb,eclipse,elasticsearch,electron,elixir,elysia,emacs,ember,emotion,express,fastapi,fediverse,figma,firebase,flask,flutter,forth,fortran,gamemakerstudio,gatsby,gcp,git,github,githubactions,gitlab,gmail,gherkin,go,gradle,godot,grafana,graphql,gtk,gulp,haskell,haxe,haxeflixel,heroku,hibernate,html,htmx,idea,ai,instagram,ipfs,java,js,jenkins,jest,jquery,kafka,kali,kotlin,ktor,kubernetes,laravel,latex,less,linkedin,linux,lit,lua,md,mastodon,materialui,matlab,maven,mint,misskey,mongodb,mysql,neovim,nestjs,netlify,nextjs,nginx,nim,nix,nodejs,notion,npm,nuxtjs,obsidian,ocaml,octave,opencv,openshift,openstack,p5js,perl,ps,php,phpstorm,pinia,pkl,plan9,planetscale,pnpm,postgres,postman,powershell,pr,prisma,processing,prometheus,pug,pycharm,py,pytorch,qt,r,rabbitmq,rails,raspberrypi,react,reactivex,redhat,redis,redux,regex,remix,replit,rider,robloxstudio,rocket,rollupjs,ros,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,selenium,sentry,sequelize,sketchup,solidity,solidjs,svelte,svg,swift,symfony,tailwind,tauri,tensorflow,terraform,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,visualstudio,vite,vitest,vscode,vscodium,vue,vuetify,wasm,webflow,webpack,webstorm,windicss,windows,wordpress,workers,xd,yarn,yew,zig)](https://skillicons.dev)
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/carolbicsi/count.svg) visitor,Thank You!
 
 [![CarolBicsi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carolbicsi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -22,6 +28,7 @@
 <a href="https://space.bilibili.com/3546593229801716"><img src="https://img.shields.io/badge/哔哩哔哩-原神再启不能动-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-799353918-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+  
 <img src="https://komarev.com/ghpvc/?username=CarolBicsi&abbreviated=true&color=yellow" />
 <img src="https://wakatime.com/badge/user/4a02bb6e-69d4-4f8c-8c0b-ea3c1853203e.svg" />
 </p>

@@ -27,8 +27,4 @@ jobs:
             git checkout --ours . && git add .
             git rebase --continue
           fi
-      - name: Commit & Push
-        run: |
-          git add -A .
-          git commit -m "Auto-resolve conflicts and generate"
           git push

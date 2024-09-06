@@ -3,15 +3,10 @@ name: Generate Content
 on:
   # 每24小时自动运行一次
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   
   # 允许手动运行作业
   workflow_dispatch:
-  
-  # 在主分支上每次推送时运行
-  push:
-    branches:
-    - main
 
 jobs:
   generate-animation:
@@ -157,3 +152,20 @@ jobs:
           plugin_topics_sort: stars
           plugin_traffic: yes
           repositories_forks: yes
+
+  generate-github-profile-3d-contrib:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push

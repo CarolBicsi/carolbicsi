@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3421" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5527" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.sponsorships.goal{display:flex;align-items:center}.sponsorships.goal .bold{font-weight:700}.sponsorships.goal img{width:38px;margin-right:8px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal,code{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.sponsorships.goal{display:flex;align-items:center}.sponsorships.goal .bold{font-weight:700}.sponsorships.goal img{width:38px;margin-right:8px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -35,14 +35,14 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -83,7 +83,7 @@ learn code in depth on github platform.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            279 Commits
+                            286 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -129,7 +129,7 @@ learn code in depth on github platform.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 28 users
+                            Following 29 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -141,7 +141,7 @@ learn code in depth on github platform.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 616 repositories
+                            Starred 630 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -223,7 +223,7 @@ learn code in depth on github platform.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    30 views in last two weeks
+                                    31 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -501,14 +501,112 @@ learn code in depth on github platform.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
+                        <li>Mostly pushes code around 09:00</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
             <section class="habits">
+                <div class="column chart largeable">
+                    <h3>Commit activity per hour of day</h3>
+                    <div class="chart-bars">
+                        <div class="entry">
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            09
+                        </div>
+                        <div class="entry">
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            10
+                        </div>
+                        <div class="entry">
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            11
+                        </div>
+                        <div class="entry">
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            12
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            13
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            14
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            15
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            16
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            17
+                        </div>
+                        <div class="entry">
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            18
+                        </div>
+                    </div>
+                </div>
                 <div class="row largeable">
+                    <section class="column chart">
+                        <h3>Commit activity per day of week</h3>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Sun
+                            </div>
+                            <div class="entry">
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                Mon
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Tue
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Wed
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Thu
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Fri
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                Sat
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </section>
             <section>
@@ -546,6 +644,12 @@ learn code in depth on github platform.</div>
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 8 days
@@ -566,7 +670,7 @@ learn code in depth on github platform.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.86
+                            Average per day at ~0.89
                         </div>
                     </section>
                 </div>
@@ -1522,10 +1626,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.91044776119403)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1559,10 +1663,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.91044776119403)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1623,43 +1727,6 @@ learn code in depth on github platform.</div>
                             </g>
                         </g>
                         <g transform="translate(47.6, 28)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(49.3, 29)">
                             <g transform="translate(0, 2.4179104477611943)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.582089552238806 0,4.582089552238806 z"/>
@@ -1696,7 +1763,7 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(51, 30)">
+                        <g transform="translate(49.3, 29)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1733,7 +1800,7 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(52.699999999999996, 31)">
+                        <g transform="translate(51, 30)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1748,6 +1815,43 @@ learn code in depth on github platform.</div>
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(52.699999999999996, 31)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1791,10 +1895,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.82089552238806)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1791044776119404 0,1.1791044776119404 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1791044776119404 1.7,2.1791044776119404 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1828,10 +1932,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.82089552238806)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1791044776119404 0,1.1791044776119404 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1791044776119404 1.7,2.1791044776119404 z"/>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1956,43 +2060,6 @@ learn code in depth on github platform.</div>
                             </g>
                         </g>
                         <g transform="translate(62.9, 37)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 0)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
@@ -2029,7 +2096,7 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(66.3, 39)">
+                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2049,6 +2116,43 @@ learn code in depth on github platform.</div>
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(66.3, 39)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2188,10 +2292,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.91044776119403)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2225,10 +2329,10 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.91044776119403)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2319,50 +2423,13 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.91044776119403)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
                             </g>
                         </g>
                         <g transform="translate(79.89999999999999, 47)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 11.91044776119403)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(81.6, 48)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2374,9 +2441,9 @@ learn code in depth on github platform.</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3582089552238805 1.7,2.3582089552238807 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.492537313432836)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.507462686567164 0,3.5074626865671643 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5074626865671643 1.7,4.507462686567164 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.507462686567164 0,3.5074626865671643 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5074626865671643 1.7,4.507462686567164 z"/>
                             </g>
                             <g transform="translate(-5.1, 4.253731343283582)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2389,36 +2456,36 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.477611940298507)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5223880597014925 0,2.5223880597014925 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5223880597014925 1.7,3.5223880597014925 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5223880597014925 0,2.5223880597014925 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5223880597014925 1.7,3.5223880597014925 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.283582089552239)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.716417910447761 0,1.716417910447761 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.716417910447761 1.7,2.716417910447761 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.716417910447761 0,1.716417910447761 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.716417910447761 1.7,2.716417910447761 z"/>
                             </g>
                         </g>
-                        <g transform="translate(83.3, 49)">
+                        <g transform="translate(81.6, 48)">
                             <g transform="translate(0, 5.2835820895522385)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.716417910447761 0,1.716417910447761 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.716417910447761 1.7,2.716417910447761 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.716417910447761 0,1.716417910447761 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.716417910447761 1.7,2.716417910447761 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.1940298507462686)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8059701492537314 0,1.8059701492537314 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8059701492537314 1.7,2.8059701492537314 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8059701492537314 0,1.8059701492537314 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8059701492537314 1.7,2.8059701492537314 z"/>
                             </g>
                             <g transform="translate(-3.4, 5.402985074626866)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.597014925373134 0,3.5970149253731343 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5970149253731343 1.7,4.597014925373134 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.597014925373134 0,3.5970149253731343 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5970149253731343 1.7,4.597014925373134 z"/>
                             </g>
                             <g transform="translate(-5.1, 5.507462686567164)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.492537313432836 0,4.492537313432836 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.492537313432836 1.7,5.492537313432836 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.492537313432836 0,4.492537313432836 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.492537313432836 1.7,5.492537313432836 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.731343283582088)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2436,7 +2503,7 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(85, 50)">
+                        <g transform="translate(83.3, 49)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2473,7 +2540,7 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(86.7, 51)">
+                        <g transform="translate(85, 50)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2510,16 +2577,16 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(88.39999999999999, 52)">
+                        <g transform="translate(86.7, 51)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.91044776119403)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.08955223880597 0,1.0895522388059702 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0895522388059702 1.7,2.08955223880597 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2547,11 +2614,16 @@ learn code in depth on github platform.</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(90.1, 53)">
+                        <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 6.373134328358209)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.626865671641791 0,1.626865671641791 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.626865671641791 1.7,2.626865671641791 z"/>
                             </g>
                         </g>
                     </g>
@@ -2931,6 +3003,7 @@ learn code in depth on github platform.</div>
                                 </g>
                                 <g transform="translate(600, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2953,70 +3026,17 @@ learn code in depth on github platform.</div>
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
-                                        <span>redis-windows/redis-windows</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>quick123official/quick_redis_blog</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Redis 6.0.20 6.2.14 7.0.15  7.2.4  7.4.0 for Windows</div>
+                                <div class="field description">QuickRedis is a free forever Redis Desktop manager. It supports direct connection, sentinel, and cluster mode, supports multiple languages, supports hundreds of millions of keys, and has an amazing UI. Supports both Windows, Mac OS X and Linux platform.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        Batchfile
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        Apache-2.0
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        1.29k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        133
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        27
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        8
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>zkteco-home/redis-windows</span>
-                                        <span>starred 10 hours ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">Native port of Redis for Windows,it can be installed as service.</div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        Batchfile
+                                        JavaScript
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3028,26 +3048,26 @@ learn code in depth on github platform.</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.87k
+                                        1.67k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        169
+                                        167
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        80
+                                        87
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        1
+                                        45
                                     </div>
                                 </div>
                             </section>
@@ -3059,48 +3079,48 @@ learn code in depth on github platform.</div>
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
-                                        <span>tporadowski/redis</span>
+                                        <span>tiny-craft/tiny-rdm</span>
                                         <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.</div>
+                                <div class="field description">Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        C
+                                        Vue
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                         </svg>
-                                        Other
+                                        GNU GPLv3
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.96k
+                                        8.53k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.09k
+                                        422
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        144
+                                        353
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        9
+                                        16
                                     </div>
                                 </div>
                             </section>
@@ -3109,20 +3129,73 @@ learn code in depth on github platform.</div>
                             <section class="repository">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
-                                        <span>microsoftarchive/redis</span>
+                                        <span>qishibo/AnotherRedisDesktopManager</span>
                                         <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes</div>
+                                <div class="field description">🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        C
+                                        JavaScript
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
+                                        </svg>
+                                        MIT
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        30.3k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        2.56k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        1k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        212
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>RedisInsight/RedisInsight</span>
+                                        <span>starred 10 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Redis GUI by Redis</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        TypeScript
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3134,26 +3207,26 @@ learn code in depth on github platform.</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        20.8k
+                                        6.14k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        5.38k
+                                        344
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        582
+                                        578
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        68
+                                        3.33k
                                     </div>
                                 </div>
                             </section>
@@ -3215,10 +3288,11 @@ learn code in depth on github platform.</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    28 followed
+                    29 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAADvUlEQVR4nLWWfUgTcRjHtXfohYreCyJ6/S96+0OTDI3oRSosQkLCSFumjtKyVpb0ajUqKUqhF7ESlaICzUgEK0sjM62Fy+xud+fObd62c3PebrtdF0/tYrtuazP744Hj+P6eD/d8n+f5XYQgCBHhRJfJPePg1e67SXnE2yZNf1S45yNCFTJOfuS1B2ZVjALpi0pFhLVKHVlZ15v8X4D1LX1xW3KxdgBFpyFOdRl1jrZ7xoQLE/4GbPvKLFac11cDKCoV8ahuGEpQ0jVbqusk2HnKy90PFOf1Tz98YZaEDSR73FOPXDfciUpFeIBtP0Y0v9cyy6U6m8MzWl1GnY1OQ1jQJR7BNfUtffEhA50ufnjRI8uhVXsRGyRYk4UaymvpXRwnRPrqeF6IBP/WKnV60K1OR60l1dZMl5sfKgVwHv+zvx8a2hyrEg/jGq9PbEFpz0VLLzdOmqC5nVmx4wTR6C3z94NXu+/pTe5pUp2llxt/6rapcGM29q3qtS2R5yXADQd0JCTZU6Cv6sDZ+dIEBrN7im+Zk/KId3JjwXHCkNIaqyIuA+0BXXwmaoIqQVX8gAk5GLl+v84QJIE5WJkhXn5wxG5T4a1ik+UVG4spmpsoW1IAbszG/IBQZjFBdBriKijtuWDp5cZKQYTRNUt5iaz0goSdJ7tetHYwi4M2jRTIeYQIMUGGmnyixdhF0sNWu2dsYQWVH5uO2kG3VYV/qmm0bxL9CgsIAUngvVyZy57Tu9dkoUbQxGWg1L1ndBq8D3nwQwU2afpXbj9GvPd+PX+0yHjLYHZPDgSgaG5iXrGxSIuxcwcE3HnyFyw5n3jd3M4sCwTiOCGyvJZOgS4FvRZjFwwImHK66yeQornpgWBNmv5oGBuxCjCrsJUGHYgbXLOyC7vLxGbbkot9bmhzxP6Th3JAB8OPulJBHY9RII6fq24faimptmY5WX7YPzeNLxD25OMXtqSEHAyBdzF7EIf6PlVA0dyEQetSEVjVYNsq8ekubnDNlIPAUhe/dsDAYD4JPvHmo2PlNhX+UYuxs6VAfTjAYD4Jv+7Uab7L/g9gczuzPP0CWRUqsJP480aB6HfyI64/NOeKd2p8pv8W8hNLd2A4YwFnn76xb07IwTrF28K7hSbJNo1chArU6pwLU8/pa0Vfk/OJVy1fmKVBu1Qu6t71rdun9i+zLxAu5TMlpsLf/zSHcU1No31zSLdFoJAeFoHwCxLIJyFI/BUojZTTXeLsiT7dlPo0qEBE75qjvEQ+BJ9aO+R9Cgb8AU7xrYUSc4ADAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIBAf/xAAtEAABAwIFAgUDBQAAAAAAAAABAgMEBREABhITIQcxFCIyQVFhccEVkbHh8f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAQIF/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECAwQRMiL/2gAMAwEAAhEDEQA/AJxhU5TziE6SCsXFxa4+mD0LL6HjYuAgGytBuR/eKf6f9GXcttx315ilSg2LmK22GkOH43OTa/t/uBXW1/LPg48B6BV6fLBul2E621pc7DdBXZQNvXye3PPL+XKmV9SLXhenlk81vLUdhJVBVII48rqR/IOF8xmG/K40vWO9jb8YrKl9IqmmgBuqSI7khyMFq0pIdbct6PXoJ7C/b88qzD0yqBqGqHuNNqQkluUhW4lXuDxb9uMHrbG/ICZ1n0VfSqi25HbJIseO/viXuqPj8xZ4qkCVNZah/qaW2lOJF22xuXNz8AH78DD5GrE1kttod8uttHPwq18O1FTHU4w6qHEMjSV7+0Nd/Te/2xnORzPRy+zTkjO7EvJtAVLdcm1N+G1veGaKrK0C+r2Bv3GCzlScUslccpV8asD3Z7+xquLn6YEqmPlaiV++JSKXTp9n/9k=" width="28" height="28" alt="" />
@@ -3242,7 +3316,6 @@ learn code in depth on github platform.</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAgj/xAApEAABBAEDAgQHAAAAAAAAAAABAgMEEQAFEiEGEwciMVEUFiNBYWJx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBAwX/xAAgEQABAwMFAQAAAAAAAAAAAAABAAIDERIhBAUTMUEi/9oADAMBAAIRAxEAPwD1G+6hllTi72gWaF4Vmaq7qiHG49MsggWeVHEerMKkac+0gBSig0CLs5PZMLVdHgOrbacmI7qXKbAC0A0CKvmqJ9/6cytx5iA2LpN6UMOXdplos9ZIZkqtR4B/Obm0YFjyH5DyEQEKL9kq3DhHH3xrHLnYR3gO5Xm2+l4W2yySR2vFaeodVGGuwunXENNqW4oJQkWVE0AMivX/AIrwdPmqhRorziLSpXaV9VwEceWqbB45Jv8AXKf1qT8vyGwSA6UtqI9dpPOY3RnTulaZMWqJCaDxKiXljc4o+TkqPN8nH3/RtVLDblZPgr1a11PF1ZPwDcB6M8g9pJs7FDizQvkKymEYQgaZFg+IEuXEbDTs2OC+E8JWU1Rr3xhktaKWjxCTdkr/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACf0lEQVR4nN2V+1PaQBDH+bc7Tn0ABg0URFBetaMdhAYdrUVtnepYXwVf1GoBrZAQTIqOCBoScgfEdTpxMIMWlKm/uD/dfnfvc7d7yZ0OnsF0LwVaqVQURfnP0GDQv7UVbRBLJSGdOm4TWq1Wu7s6RkdHGvTVleXZ8EybUFEsEcYeorenJAh1sVarmQj9ZvR7m1CMkcftNJNEbHe7LqbTx9Y3/dplngYFgKXFBZ93eHp6QpJEVfk4Pfl5Ptx8lq55mGWZqSkq/GkqEd8HgIuLvJkkGIZ+MpTnuVjstl5ZLq+vLa9+W9r/uSuKpWhkwz5gafmR6e5LkxNUVHMObIbe39s9TB7Q9O+3Pvfej1hzIjwItVnJbDZTdysVTNNHdPoonTpMJg5aEuFBqEHfWZYkrVIs5LkThudYhOR2oJIkGvSd9/MwRgiVtUou9yeZiAvCVWtoPn9uIU3/2oIs33FZNrP4dcHtcix8mW8Bvbws9hq7AYCmU5HIRvzXXRPZDNPd1TE58aFhisXS1wIqCFemXv3fPyd1vL62MuS0RyIbasjndeXz51Yrqc2/vlacDhtCqBkUY9T5+lW1WlXdYrHgdAwAwGku927ECwBDTjsAZLNsMOD3eoZ9XpfNSmLcFAoARkNXoXChjmW5TPYTAEBRgWQiDgDqGpIk8TynsryeYW2v4UFoiArUSxYEob/PiBCymE1qjYN2a0P++7GR1jvluRMTYWAYmuNOQlTQ7x/jec4xaFOjc7MzilLTtAt73EOPulBisR3HoM3tcs7PhQXhiue58fExbUKWzYRCQYoKWMx9O9ubj4LeN4yx1lUUhee5s7NTUby9El/kE92ePQv0Blr8t4b3fcePAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYUlEQVR4nO3TPYvCMBjA8XzV4BdwcmoXXV0yFgoqvg3aopuI2ElRirSpd6JGC6JDK6YIith68BxU6HDIqahwcP7HQH4EnjwIXhB6o08PPZ+EN3pP2+12vV6Px2NN0yzLOp1ONw1qNBoxxgzDUFVVURTf98/nlFJBEOSwdDqNMY7FYqlUajAYrFarKyjnfLlcSpKEMQaAw+Hgum69XsdhP9BkMinLcj6fv4JGYYwlScrlcrIsi6IYoZlMhhAiCIKqqpPp1AmDG9FOpxOPx89Pi9Byudzr9Tj3ZvM5tYaTKeOet9/vb0UBoN1uF4vFCCWEbDbccZzZ3DZMOvz49Dzv4qzQLygAdLvdfr9v2/ZutwOArzA/CI7H459Z00QiUSqVqtWqoijZbDYIAlEUKaW1Wo0QUigUKpXK3ShjbLFYnP+5aZqu6+phrVar0Wjout5sNu9GHwk9dPuNXgrBC0L/G/0G13nEMjwWouAAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3263,7 +3336,7 @@ learn code in depth on github platform.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">redis-windows/redis-windows</span>
+                                        <span class="repo">quick123official/quick_redis_blog</span>
                                     </div>
                                 </div>
                             </section>
@@ -3276,7 +3349,7 @@ learn code in depth on github platform.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">zkteco-home/redis-windows</span>
+                                        <span class="repo">tiny-craft/tiny-rdm</span>
                                     </div>
                                 </div>
                             </section>
@@ -3289,7 +3362,7 @@ learn code in depth on github platform.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">tporadowski/redis</span>
+                                        <span class="repo">qishibo/AnotherRedisDesktopManager</span>
                                     </div>
                                 </div>
                             </section>
@@ -3302,7 +3375,7 @@ learn code in depth on github platform.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">microsoftarchive/redis</span>
+                                        <span class="repo">RedisInsight/RedisInsight</span>
                                     </div>
                                 </div>
                             </section>
@@ -3315,7 +3388,7 @@ learn code in depth on github platform.</div>
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">redis/redis</span>
+                                        <span class="repo">ran-jit/tomcat-cluster-redis-session-manager</span>
                                     </div>
                                 </div>
                             </section>
@@ -3503,7 +3576,7 @@ learn code in depth on github platform.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.96 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="40.300000000000004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3522,7 +3595,7 @@ learn code in depth on github platform.</div>
                                     <span class="prefix">Super</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 616 repositories</div>
+                                <div class="text">Starred 630 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3557,7 +3630,7 @@ learn code in depth on github platform.</div>
                                 <div class="text">Using 8 different programming languages</div>
                             </div>
                         </div>
-                        <div class="achievement c largeable-width-half">
+                        <div class="achievement b largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -3567,29 +3640,29 @@ learn code in depth on github platform.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.2110552763819 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5833333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#79B8FF">
+                                            <g stroke="#B2A8FF">
                                                 <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
                                                 <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
                                             </g>
-                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
+                                            <g stroke="#B2A8FF" stroke-linecap="round" stroke-linejoin="round">
                                                 <path d="M47.01 41.009h-4M45.016 39v4"/>
                                             </g>
-                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
+                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix"></span>
-                                    Deployer
+                                    <span class="prefix">Great</span>
+                                    deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 190 times</div>
+                                <div class="text">Repositories have been deployed 205 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3602,7 +3675,7 @@ learn code in depth on github platform.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.030150753768844 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.809045226130653 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -3620,7 +3693,7 @@ learn code in depth on github platform.</div>
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 28 users</div>
+                                <div class="text">Following 29 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3685,7 +3758,7 @@ learn code in depth on github platform.</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.4243668720054705 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3822,7 +3895,7 @@ learn code in depth on github platform.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.40m out of 210m repositories</span>
+                                    <span class="gh">ranked 5.40m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3922,9 +3995,46 @@ learn code in depth on github platform.</div>
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">CarolBicsi/carolbicsi.github.io</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 7 Oct 2024, 10:26:24
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            Site updated: 2024-10-07 10:08:54
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">a24d4214</span>
+                            <span class="code">search.xml</span>
+                            <span class="code">
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,7 +8,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;link href="/posts/5e6c513c.html"/&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;url&gt;/posts/5e6c513c.html&lt;/url&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  &lt;content type="html"&gt;&lt;![CDATA[&lt;hr&gt;&lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t0"&gt;一、明确tomcat的下载版本&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t1"&gt;二、检验JDK安装&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.%E6%9F%A5%E7%9C%8B%E9%85%8D%E7%BD%AE%E5%A5%BD%E7%9A%84JDK%E7%89%88%E6%9C%AC"&gt;1.查看配置好的JDK版本&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E6%B3%A8%E6%84%8F%E9%A1%B9"&gt;2.注意项&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t2"&gt;三、下载安装tomcat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t3"&gt;四、配置tomcat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t4"&gt;五、检测tomcat是否正常启动&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t5"&gt;六、启动与关闭tomcat的方式&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.dos%E7%95%8C%E9%9D%A2%EF%BC%88%E9%85%8D%E7%BD%AE%E4%BA%86Path%E5%8F%98%E9%87%8F%E5%90%8E%EF%BC%89"&gt;1.dos界面（配置了Path变量后）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E7%B3%BB%E7%BB%9F%E2%80%9C%E6%9C%8D%E5%8A%A1%E2%80%9D"&gt;2.系统“服务”&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#3.%E8%BD%AF%E4%BB%B6%E7%A8%8B%E5%BA%8F%2F%E8%84%9A%E6%9C%AC%E7%A8%8B%E5%BA%8F%EF%BC%88%E7%A8%8B%E5%BA%8F%E5%9C%A8tomcat%E7%9A%84bin%E7%9B%AE%E5%BD%95%E4%B8%AD%EF%BC%89"&gt;3.软件程序/脚本程序（程序在tomcat的bin目录中）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t6"&gt;七、其他问题&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.%E5%85%B6%E4%BB%96%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8tomcat%E7%9A%84%E5%8F%AF%E8%83%BD%E5%8E%9F%E5%9B%A0"&gt;1.其他无法启动tomcat的可能原因&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E8%A7%A3%E5%86%B3%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E2%80%9Clocalhost%3A8080%E2%80%9D%E5%AF%B9%E5%BA%94%E7%BD%91%E9%A1%B5%E7%9A%84%E9%97%AE%E9%A2%98"&gt;2.解决浏览器无法显示“localhost:8080”对应网页的问题&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#3.%E8%A7%A3%E5%86%B3tomcat%E7%95%8C%E9%9D%A2%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81%E7%9A%84%E9%97%AE%E9%A2%98"&gt;3.解决tomcat界面出现乱码的问题&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;&lt;h4 id="一、明确tomcat的下载版本"&gt;一、明确tomcat的下载版本&lt;/h4&gt;&lt;p&gt;tomcat版本与jdk版本的适配情况可在tomcat官网&lt;a href="https://tomcat.apache.org/" title="Apache Tomcat® - Welcome!"&gt;Apache Tomcat® - Welcome!&lt;/a&gt;左侧“Download”一栏的“Which version?”中查看。本文笔者选择jdk8适用的tomcat9版本。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/002c66d986ee4ebbac265fdf7faca636.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;若以jdk8使用tomcat10版本，在&lt;strong&gt;启动时tomcat界面可能会出现闪退&lt;/strong&gt;情况，而只剩dos窗口。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/9795e8df221d4057af97a7619d3ccb89.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="二、检验JDK安装"&gt;二、检验&lt;a href="https://so.csdn.net/so/search?q=JDK%E5%AE%89%E8%A3%85&amp;spm=1001.2101.3001.7020"&gt;JDK安装&lt;/a&gt;&lt;/h4&gt;&lt;h5 id="1-查看配置好的JDK版本"&gt;1.查看配置好的JDK版本&lt;/h5&gt;&lt;p&gt;搜索栏输入cmd回车，打开dos窗口，输入"java -version"查看。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/55a89ec853c94ff0b1bc8f9052995105.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/9e6632f664bb4cc8bd36205d9d4de7c0.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-注意项"&gt;2.注意项&lt;/h5&gt;&lt;p&gt;使用jdk8时，要确保&lt;strong&gt;JAVA_HOME&lt;/strong&gt;系统环境变量为jdk8开发工具的目录&lt;/p&gt;&lt;p&gt;（jdk8的jdk和jre会分别安装，故需进一步指明为jdk目录，其他高版本无需在意），&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/86bbcf8e1b67433f860e8d4747bf25f7.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/ab8bee38849d45aabf0f667b107b1a41.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;否则，启动tomcat时会报错“&lt;strong&gt;NB: JAVA_HOME should point to a JDK not a JRE&lt;/strong&gt;”，&lt;/p&gt;&lt;p&gt;意为“注意：JAVA_HOME应该指向JDK而不是JRE”。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/80b3c85def5b40f8b51c8cf419f5250a.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="三、下载安装tomcat"&gt;三、下载&lt;a href="https://so.csdn.net/so/search?q=%E5%AE%89%E8%A3%85tomcat&amp;spm=1001.2101.3001.7020"&gt;安装tomcat&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;1.在tomcat官网&lt;a href="https://tomcat.apache.org/" title="Apache Tomcat® - Welcome!"&gt;Apache Tomcat® - Welcome!&lt;/a&gt;左侧“Download”一栏中选择对应版本点击下载。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/678ab271ff174dd0a92c62421fab2d03.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5f675731ea9041af816b669322697c8f.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;2.右键点击压缩包，将压缩包解压到自己想要设定的文件位置，就安装完成了。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/7fb207bf689f468fad4c0d4a54f6eb6b.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="四、配置tomcat"&gt;四、&lt;a href="https://so.csdn.net/so/search?q=%E9%85%8D%E7%BD%AEtomcat&amp;spm=1001.2101.3001.7020"&gt;配置tomcat&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;1.复制你tomcat的安装目录（解压目录）。&lt;/p&gt;&lt;p&gt;2.在桌面右键点击“我的电脑”/“此电脑”，点击“属性”，选择“高级系统设置”，点击“环境变量”。&lt;/p&gt;&lt;p&gt;3.在“系统变量”内新建三个变量，并将复制的tomcat安装目录粘贴到变量值处，点击确认。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/0dcb69fe7bb64f62bf7af650a95848ee.png" alt="code"&gt;&lt;/p&gt;&lt;p&gt;三个变量如下：&lt;/p&gt;&lt;p&gt;&lt;strong&gt;1）CATALINA_HOME变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_HOME&lt;br&gt;变量值：D:\tools\apache-tomcat-9.0.93&lt;/p&gt;&lt;p&gt;作用：该变量指明tomcat的安装目录。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;2）CATALINA_BASE变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_BASE&lt;br&gt;变量值：D:\tools\apache-tomcat-9.0.93&lt;/p&gt;&lt;p&gt;作用：该变量指明tomcat的工作目录。&lt;/p&gt;&lt;p&gt;若要运行tomcat的多个实例，但是不想安装多个Tomcat软件副本，那么我们可以配置多个工作目录，每个运行实例独占一个工作目录，但是共享同一个安装目录。操作：建立一个目录，把conf、logs、temp、webapps、work和shared拷贝到该目录下，然后让CATALINA_BASE指向该目录。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;3）CATALINA_TMPDIR变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_TMPDIR&lt;br&gt;变量值：%CATALINA_BASE%\temp&lt;/p&gt;&lt;p&gt;作用：该变量指明web应用运行过程中使用的临时目录。故可设置与CATALINA_BASE变量对应。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;之后，编辑Path变量，新建tomcat的bin文件路径&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：Path&lt;/p&gt;&lt;p&gt;变量值：%CATALINA_HOME%\bin&lt;/p&gt;&lt;p&gt;作用：该变量值指明tomcat的bin目录，便于在dos界面/cmd界面直接运行bin目录内的程序。故可设置与CATALINA_HOME变量对应。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/e8d6b847cb38478aa8758a91688dce93.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;最后，一路确认即可。&lt;/p&gt;&lt;h4 id="五、检测tomcat是否正常启动"&gt;五、检测tomcat是否正常启动&lt;/h4&gt;&lt;p&gt;1.打开dos界面，输入“startup”启动tomcat，&lt;/p&gt;&lt;p&gt;若出现“org.apache.catalina.startup.Catalina.start”，则执行成功。&lt;/p&gt;&lt;p&gt;2.打开浏览器，在地址栏输入“&lt;strong&gt;localhost:8080&lt;/strong&gt;”或者“&lt;strong&gt;127.0.0.1:8080&lt;/strong&gt;”回车，&lt;/p&gt;&lt;p&gt;若出现Apache Tomcat默认网页界面（带有类动物形象的图标，tomcat商标），则说明Tomcat启动成功。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/0c4c63b47b1e449c85220f6e906c1fbe.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4d0ba55430694cb68d19fc36c1a472fa.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="六、启动与关闭tomcat的方式"&gt;六、启动与关闭tomcat的方式&lt;/h4&gt;&lt;h5 id="1-dos界面（配置了Path变量后）"&gt;1.dos界面（配置了Path变量后）&lt;/h5&gt;&lt;p&gt;输入“startup”，即可启动；&lt;/p&gt;&lt;p&gt;输入“shutdown.bat”，即可关闭tomcat。&lt;/p&gt;&lt;p&gt;*Linux系统（服务器端）下关闭tomcat：&lt;/p&gt;&lt;p&gt;ps -ef | grep tomcat        #查看tomcat进程号&lt;/p&gt;&lt;p&gt;kill -9 pid        #pid为对应进程号&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5ce322a39d7e40369cda8842213ebb97.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-系统“服务”"&gt;2.系统“服务”&lt;/h5&gt;&lt;p&gt;1）（防止权限不足）以管理员身份打开dos界面，并进入tomcat的bin目录；&lt;/p&gt;&lt;p&gt;2）输入“service.bat install [可选填服务名，默认为配置文件中名称Tomcat9] ”进行window服务安装，若出现“&lt;strong&gt;The service ‘Tomcat9’ has been installed&lt;/strong&gt;”，则表明服务安装成功。&lt;/p&gt;&lt;p&gt;3）在系统“服务”中选择启动/关闭tomcat。（右键此电脑-&gt;管理-&gt;服务和应用程序-&gt;服务）&lt;/p&gt;&lt;p&gt;&lt;strong&gt;以下为dos界面命令：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1）进入你tomcat安装的磁盘。&lt;/p&gt;&lt;p&gt;2）进入你tomcat安装目录的bin目录。&lt;/p&gt;&lt;p&gt;3）安装tomcat服务。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;d:&lt;/p&gt;&lt;p&gt;cd D:\tools\apache-tomcat-9.0.93\bin&lt;/p&gt;&lt;p&gt;service.bat install&lt;/p&gt;&lt;/blockquote&gt;&lt;h5 id="3-软件程序-脚本程序（程序在tomcat的bin目录中）"&gt;3.软件程序/脚本程序（程序在tomcat的bin目录中）&lt;/h5&gt;&lt;p&gt;1）&lt;strong&gt;软件：&lt;strong&gt;双击打开&lt;/strong&gt;tomcat9w.exe&lt;/strong&gt;，在打开的软件界面点击 Start即可启动，点击Stop即可关闭。（注：需在系统“服务”中配置tomcat，否则将提示“&lt;strong&gt;指定的服务未安装&lt;/strong&gt;”）&lt;/p&gt;&lt;p&gt;2）&lt;strong&gt;脚本：&lt;strong&gt;点击&lt;/strong&gt;startup.bat&lt;/strong&gt;即可启动，点击&lt;strong&gt;shutdown.bat&lt;/strong&gt;即可关闭。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/a08446347a5b462ab08a9b05d7f466d6.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="七、其他问题"&gt;七、其他问题&lt;/h4&gt;&lt;h5 id="1-其他无法启动tomcat的可能原因"&gt;1.其他无法启动tomcat的可能原因&lt;/h5&gt;&lt;p&gt;原因：tomcat在启动时可能会出现启动失败的情况，这种情况可能是因为tomcat服务器所使用的网络监听&lt;strong&gt;端口8080被其他服务程序占用&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;审查：在dos窗口中输入“&lt;strong&gt;netstat -na&lt;/strong&gt;”命令，可查看本机运行的程序占用的端口；&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/1105cbc8690b45f8aa3b5ff4b0f2dd2a.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;若确有程序占用了8080端口，有&lt;strong&gt;两种处理方式&lt;/strong&gt;：&lt;/p&gt;&lt;p&gt;1）&lt;strong&gt;结束进程&lt;/strong&gt;：在“任务管理器”&gt;“进程”中，找到并右键结束占用端口的进程。&lt;/p&gt;&lt;p&gt;2）&lt;strong&gt;修改tomcat的端口号&lt;/strong&gt;：在tomcat安装目录中有个配置目录“conf”，在该目录下的“server.xml”文件中修改“Connector”中“port”的值即可。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5dece70898e7439780872d2918727aca.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-解决浏览器无法显示“localhost-8080”对应网页的问题"&gt;2.解决浏览器无法显示“localhost:8080”对应网页的问题&lt;/h5&gt;&lt;p&gt;1）确认tomcat配置无误，并成功启动；&lt;/p&gt;&lt;p&gt;2）确认设定的tomcat端口号与网页端口号一致；&lt;/p&gt;&lt;p&gt;3）若以上没有问题，可能是JDK版本（JRE版本）与tomcat版本不适应。&lt;/p&gt;&lt;p&gt;可通过以下途径&lt;strong&gt;查看JDK版本与tomcat版本的适配情况&lt;/strong&gt;：&lt;/p&gt;&lt;p&gt;1）tomcat官网，步骤详见本文章的模块一。&lt;/p&gt;&lt;p&gt;2）tomcat安装目录下的“RUNNING”文件。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4122426103e04f179323bf3e3c33bd08.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="3-解决tomcat界面出现乱码的问题"&gt;3.解决tomcat界面出现乱码的问题&lt;/h5&gt;&lt;p&gt;在tomcat安装目录中有个配置目录“conf”，在该目录下的“&lt;strong&gt;logging.properties&lt;/strong&gt;”文件中修改“java.util.logging.ConsoleHandler.encoding”为&lt;strong&gt;GBK&lt;/strong&gt;即可。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4b7745a8118c4ccaa88637b137457e14.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/ae9bb728cd3d425a81d8b903e89f6892.png" alt=""&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2 id="☆-感谢观看-☆"&gt;☆  感谢观看  ☆&lt;/h2&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/2cb56cb212c24273a0436509d1862b7a.png" alt=""&gt;&lt;/p&gt;]]&gt;&lt;/content&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  &lt;content type="html"&gt;&lt;![CDATA[&lt;hr&gt;&lt;p&gt;&lt;strong&gt;目录&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t0"&gt;一、明确tomcat的下载版本&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t1"&gt;二、检验JDK安装&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.%E6%9F%A5%E7%9C%8B%E9%85%8D%E7%BD%AE%E5%A5%BD%E7%9A%84JDK%E7%89%88%E6%9C%AC"&gt;1.查看配置好的JDK版本&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E6%B3%A8%E6%84%8F%E9%A1%B9"&gt;2.注意项&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t2"&gt;三、下载安装tomcat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t3"&gt;四、配置tomcat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t4"&gt;五、检测tomcat是否正常启动&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t5"&gt;六、启动与关闭tomcat的方式&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.dos%E7%95%8C%E9%9D%A2%EF%BC%88%E9%85%8D%E7%BD%AE%E4%BA%86Path%E5%8F%98%E9%87%8F%E5%90%8E%EF%BC%89"&gt;1.dos界面（配置了Path变量后）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E7%B3%BB%E7%BB%9F%E2%80%9C%E6%9C%8D%E5%8A%A1%E2%80%9D"&gt;2.系统“服务”&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#3.%E8%BD%AF%E4%BB%B6%E7%A8%8B%E5%BA%8F%2F%E8%84%9A%E6%9C%AC%E7%A8%8B%E5%BA%8F%EF%BC%88%E7%A8%8B%E5%BA%8F%E5%9C%A8tomcat%E7%9A%84bin%E7%9B%AE%E5%BD%95%E4%B8%AD%EF%BC%89"&gt;3.软件程序/脚本程序（程序在tomcat的bin目录中）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#t6"&gt;七、其他问题&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#1.%E5%85%B6%E4%BB%96%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8tomcat%E7%9A%84%E5%8F%AF%E8%83%BD%E5%8E%9F%E5%9B%A0"&gt;1.其他无法启动tomcat的可能原因&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#2.%E8%A7%A3%E5%86%B3%E6%B5%8F%E8%A7%88%E5%99%A8%E6%97%A0%E6%B3%95%E6%98%BE%E7%A4%BA%E2%80%9Clocalhost%3A8080%E2%80%9D%E5%AF%B9%E5%BA%94%E7%BD%91%E9%A1%B5%E7%9A%84%E9%97%AE%E9%A2%98"&gt;2.解决浏览器无法显示“localhost:8080”对应网页的问题&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#3.%E8%A7%A3%E5%86%B3tomcat%E7%95%8C%E9%9D%A2%E5%87%BA%E7%8E%B0%E4%B9%B1%E7%A0%81%E7%9A%84%E9%97%AE%E9%A2%98"&gt;3.解决tomcat界面出现乱码的问题&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;&lt;h4 id="一、明确tomcat的下载版本"&gt;一、明确tomcat的下载版本&lt;/h4&gt;&lt;p&gt;tomcat版本与jdk版本的适配情况可在tomcat官网&lt;a href="https://tomcat.apache.org/" title="Apache Tomcat® - Welcome!"&gt;Apache Tomcat® - Welcome!&lt;/a&gt;左侧“Download”一栏的“Which version?”中查看。本文笔者选择jdk8适用的tomcat9版本。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/002c66d986ee4ebbac265fdf7faca636.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;若以jdk8使用tomcat10版本，在&lt;strong&gt;启动时tomcat界面可能会出现闪退&lt;/strong&gt;情况，而只剩dos窗口。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/9795e8df221d4057af97a7619d3ccb89.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="二、检验JDK安装"&gt;二、检验&lt;a href="https://so.csdn.net/so/search?q=JDK%E5%AE%89%E8%A3%85&amp;spm=1001.2101.3001.7020"&gt;JDK安装&lt;/a&gt;&lt;/h4&gt;&lt;h5 id="1-查看配置好的JDK版本"&gt;1.查看配置好的JDK版本&lt;/h5&gt;&lt;p&gt;搜索栏输入cmd回车，打开dos窗口，输入"java -version"查看。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/55a89ec853c94ff0b1bc8f9052995105.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/9e6632f664bb4cc8bd36205d9d4de7c0.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-注意项"&gt;2.注意项&lt;/h5&gt;&lt;p&gt;使用jdk8时，要确保&lt;strong&gt;JAVA_HOME&lt;/strong&gt;系统环境变量为jdk8开发工具的目录&lt;/p&gt;&lt;p&gt;（jdk8的jdk和jre会分别安装，故需进一步指明为jdk目录，其他高版本无需在意），&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/86bbcf8e1b67433f860e8d4747bf25f7.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/ab8bee38849d45aabf0f667b107b1a41.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;否则，启动tomcat时会报错“&lt;strong&gt;NB: JAVA_HOME should point to a JDK not a JRE&lt;/strong&gt;”，&lt;/p&gt;&lt;p&gt;意为“注意：JAVA_HOME应该指向JDK而不是JRE”。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/80b3c85def5b40f8b51c8cf419f5250a.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="三、下载安装tomcat"&gt;三、下载&lt;a href="https://so.csdn.net/so/search?q=%E5%AE%89%E8%A3%85tomcat&amp;spm=1001.2101.3001.7020"&gt;安装tomcat&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;1.在tomcat官网&lt;a href="https://tomcat.apache.org/" title="Apache Tomcat® - Welcome!"&gt;Apache Tomcat® - Welcome!&lt;/a&gt;左侧“Download”一栏中选择对应版本点击下载。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/678ab271ff174dd0a92c62421fab2d03.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5f675731ea9041af816b669322697c8f.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;2.右键点击压缩包，将压缩包解压到自己想要设定的文件位置，就安装完成了。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/7fb207bf689f468fad4c0d4a54f6eb6b.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="四、配置tomcat"&gt;四、&lt;a href="https://so.csdn.net/so/search?q=%E9%85%8D%E7%BD%AEtomcat&amp;spm=1001.2101.3001.7020"&gt;配置tomcat&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;1.复制你tomcat的安装目录（解压目录）。&lt;/p&gt;&lt;p&gt;2.在桌面右键点击“我的电脑”/“此电脑”，点击“属性”，选择“高级系统设置”，点击“环境变量”。&lt;/p&gt;&lt;p&gt;3.在“系统变量”内新建三个变量，并将复制的tomcat安装目录粘贴到变量值处，点击确认。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/0dcb69fe7bb64f62bf7af650a95848ee.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;三个变量如下：&lt;/p&gt;&lt;p&gt;&lt;strong&gt;1）CATALINA_HOME变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_HOME&lt;br&gt;变量值：D:\tools\apache-tomcat-9.0.93s&lt;/p&gt;&lt;p&gt;作用：该变量指明tomcat的安装目录。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;2）CATALINA_BASE变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_BASE&lt;br&gt;变量值：D:\tools\apache-tomcat-9.0.93&lt;/p&gt;&lt;p&gt;作用：该变量指明tomcat的工作目录。&lt;/p&gt;&lt;p&gt;若要运行tomcat的多个实例，但是不想安装多个Tomcat软件副本，那么我们可以配置多个工作目录，每个运行实例独占一个工作目录，但是共享同一个安装目录。操作：建立一个目录，把conf、logs、temp、webapps、work和shared拷贝到该目录下，然后让CATALINA_BASE指向该目录。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;3）CATALINA_TMPDIR变量&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：CATALINA_TMPDIR&lt;br&gt;变量值：%CATALINA_BASE%\temp&lt;/p&gt;&lt;p&gt;作用：该变量指明web应用运行过程中使用的临时目录。故可设置与CATALINA_BASE变量对应。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;之后，编辑Path变量，新建tomcat的bin文件路径&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;变量名：Path&lt;/p&gt;&lt;p&gt;变量值：%CATALINA_HOME%\bin&lt;/p&gt;&lt;p&gt;作用：该变量值指明tomcat的bin目录，便于在dos界面/cmd界面直接运行bin目录内的程序。故可设置与CATALINA_HOME变量对应。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/e8d6b847cb38478aa8758a91688dce93.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;最后，一路确认即可。&lt;/p&gt;&lt;h4 id="五、检测tomcat是否正常启动"&gt;五、检测tomcat是否正常启动&lt;/h4&gt;&lt;p&gt;1.打开dos界面，输入“startup”启动tomcat，&lt;/p&gt;&lt;p&gt;若出现“org.apache.catalina.startup.Catalina.start”，则执行成功。&lt;/p&gt;&lt;p&gt;2.打开浏览器，在地址栏输入“&lt;strong&gt;localhost:8080&lt;/strong&gt;”或者“&lt;strong&gt;127.0.0.1:8080&lt;/strong&gt;”回车，&lt;/p&gt;&lt;p&gt;若出现Apache Tomcat默认网页界面（带有类动物形象的图标，tomcat商标），则说明Tomcat启动成功。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/0c4c63b47b1e449c85220f6e906c1fbe.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4d0ba55430694cb68d19fc36c1a472fa.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="六、启动与关闭tomcat的方式"&gt;六、启动与关闭tomcat的方式&lt;/h4&gt;&lt;h5 id="1-dos界面（配置了Path变量后）"&gt;1.dos界面（配置了Path变量后）&lt;/h5&gt;&lt;p&gt;输入“startup”，即可启动；&lt;/p&gt;&lt;p&gt;输入“shutdown.bat”，即可关闭tomcat。&lt;/p&gt;&lt;p&gt;*Linux系统（服务器端）下关闭tomcat：&lt;/p&gt;&lt;p&gt;ps -ef | grep tomcat        #查看tomcat进程号&lt;/p&gt;&lt;p&gt;kill -9 pid        #pid为对应进程号&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5ce322a39d7e40369cda8842213ebb97.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-系统“服务”"&gt;2.系统“服务”&lt;/h5&gt;&lt;p&gt;1）（防止权限不足）以管理员身份打开dos界面，并进入tomcat的bin目录；&lt;/p&gt;&lt;p&gt;2）输入“service.bat install [可选填服务名，默认为配置文件中名称Tomcat9] ”进行window服务安装，若出现“&lt;strong&gt;The service ‘Tomcat9’ has been installed&lt;/strong&gt;”，则表明服务安装成功。&lt;/p&gt;&lt;p&gt;3）在系统“服务”中选择启动/关闭tomcat。（右键此电脑-&gt;管理-&gt;服务和应用程序-&gt;服务）&lt;/p&gt;&lt;p&gt;&lt;strong&gt;以下为dos界面命令：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1）进入你tomcat安装的磁盘。&lt;/p&gt;&lt;p&gt;2）进入你tomcat安装目录的bin目录。&lt;/p&gt;&lt;p&gt;3）安装tomcat服务。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;d:&lt;/p&gt;&lt;p&gt;cd D:\tools\apache-tomcat-9.0.93\bin&lt;/p&gt;&lt;p&gt;service.bat install&lt;/p&gt;&lt;/blockquote&gt;&lt;h5 id="3-软件程序-脚本程序（程序在tomcat的bin目录中）"&gt;3.软件程序/脚本程序（程序在tomcat的bin目录中）&lt;/h5&gt;&lt;p&gt;1）&lt;strong&gt;软件：&lt;strong&gt;双击打开&lt;/strong&gt;tomcat9w.exe&lt;/strong&gt;，在打开的软件界面点击 Start即可启动，点击Stop即可关闭。（注：需在系统“服务”中配置tomcat，否则将提示“&lt;strong&gt;指定的服务未安装&lt;/strong&gt;”）&lt;/p&gt;&lt;p&gt;2）&lt;strong&gt;脚本：&lt;strong&gt;点击&lt;/strong&gt;startup.bat&lt;/strong&gt;即可启动，点击&lt;strong&gt;shutdown.bat&lt;/strong&gt;即可关闭。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/a08446347a5b462ab08a9b05d7f466d6.png" alt=""&gt;&lt;/p&gt;&lt;h4 id="七、其他问题"&gt;七、其他问题&lt;/h4&gt;&lt;h5 id="1-其他无法启动tomcat的可能原因"&gt;1.其他无法启动tomcat的可能原因&lt;/h5&gt;&lt;p&gt;原因：tomcat在启动时可能会出现启动失败的情况，这种情况可能是因为tomcat服务器所使用的网络监听&lt;strong&gt;端口8080被其他服务程序占用&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;审查：在dos窗口中输入“&lt;strong&gt;netstat -na&lt;/strong&gt;”命令，可查看本机运行的程序占用的端口；&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/1105cbc8690b45f8aa3b5ff4b0f2dd2a.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;若确有程序占用了8080端口，有&lt;strong&gt;两种处理方式&lt;/strong&gt;：&lt;/p&gt;&lt;p&gt;1）&lt;strong&gt;结束进程&lt;/strong&gt;：在“任务管理器”&gt;“进程”中，找到并右键结束占用端口的进程。&lt;/p&gt;&lt;p&gt;2）&lt;strong&gt;修改tomcat的端口号&lt;/strong&gt;：在tomcat安装目录中有个配置目录“conf”，在该目录下的“server.xml”文件中修改“Connector”中“port”的值即可。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/5dece70898e7439780872d2918727aca.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="2-解决浏览器无法显示“localhost-8080”对应网页的问题"&gt;2.解决浏览器无法显示“localhost:8080”对应网页的问题&lt;/h5&gt;&lt;p&gt;1）确认tomcat配置无误，并成功启动；&lt;/p&gt;&lt;p&gt;2）确认设定的tomcat端口号与网页端口号一致；&lt;/p&gt;&lt;p&gt;3）若以上没有问题，可能是JDK版本（JRE版本）与tomcat版本不适应。&lt;/p&gt;&lt;p&gt;可通过以下途径&lt;strong&gt;查看JDK版本与tomcat版本的适配情况&lt;/strong&gt;：&lt;/p&gt;&lt;p&gt;1）tomcat官网，步骤详见本文章的模块一。&lt;/p&gt;&lt;p&gt;2）tomcat安装目录下的“RUNNING”文件。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4122426103e04f179323bf3e3c33bd08.png" alt=""&gt;&lt;/p&gt;&lt;h5 id="3-解决tomcat界面出现乱码的问题"&gt;3.解决tomcat界面出现乱码的问题&lt;/h5&gt;&lt;p&gt;在tomcat安装目录中有个配置目录“conf”，在该目录下的“&lt;strong&gt;logging.properties&lt;/strong&gt;”文件中修改“java.util.logging.ConsoleHandler.encoding”为&lt;strong&gt;GBK&lt;/strong&gt;即可。&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/4b7745a8118c4ccaa88637b137457e14.png" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/ae9bb728cd3d425a81d8b903e89f6892.png" alt=""&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2 id="☆-感谢观看-☆"&gt;☆  感谢观看  ☆&lt;/h2&gt;&lt;p&gt;&lt;img src="https://i-blog.csdnimg.cn/direct/2cb56cb212c24273a0436509d1862b7a.png" alt=""&gt;&lt;/p&gt;]]&gt;&lt;/content&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;categories&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -3971,7 +4081,7 @@ learn code in depth on github platform.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 09:11:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 09:09:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
